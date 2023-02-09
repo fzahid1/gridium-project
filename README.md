@@ -1,6 +1,6 @@
 # gridium-project
 
-NOTE: I created an Express server proxy to get around the CORS policy of the API endpoints. I am not sure if this was an intended challenge, but that was the reason for developing middleware. 
+NOTE: I created an Express server proxy to get around the CORS policy of the API endpoints.
 
 Instructions:
 - Clone the repository
