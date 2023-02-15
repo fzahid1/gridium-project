@@ -17,7 +17,7 @@ const serviceURL = {
 app.use((req, res, next) => {
   res.header('Access-Control-Allow-Origin', '*');
   next();
-}, express.static(path.join(__dirname, './gridium-challenge/build')));
+}, express.static(path.join(__dirname, '/gridium-challenge/build')));
 
 
 
@@ -48,7 +48,7 @@ app.get('/services', (req, res) => {
   });
 
 app.get('*', (req, res) => {
-  res.sendFile(path.join(__dirname, './gridium-challenge/build/index.html'));
+  res.sendFile(path.join(__dirname, '/gridium-challenge/build/index.html'));
 });
 
 const PORT = process.env.PORT || 5000;

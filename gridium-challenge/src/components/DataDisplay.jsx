@@ -60,7 +60,7 @@ function DataDisplay() {
                     <YAxis />
                     <Tooltip />
                     <Legend height={20}/>
-                    <Line type="monotone" dataKey="kW" stroke="#8ed1fc" />
+                    <Line type="monotone" dataKey="kW" stroke="#8ed1fc" dot={false}/>
                 </LineChart>
             </div>
             <div className='table'>
