@@ -7,6 +7,10 @@ Instructions:
 - Open a bash terminal and navigate to the 'gridium-project' folder
 - Install dependencies by running `npm install`
 - Start the server locally on port 5000 by running the command `npm start`
+- Navigate to http://localhost:5000/ in your browser
+- Hope you like the app!
+
+IF ABOVE DOES NOT WORK, ADDITIONALLY DO THE FOLLOWING
 - Open another terminal
 - Navigate to the 'gridium-challenge' folder
 - Run `npm install`
