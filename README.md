@@ -10,7 +10,7 @@ Instructions:
 - Navigate to http://localhost:5000/ in your browser
 - Hope you like the app!
 
-IF ABOVE DOES NOT WORK, ADDITIONALLY DO THE FOLLOWING
+IF ABOVE DOES NOT WORK, RUN THE CLIENT SEPARATELY BY DOING THE FOLLOWING
 - Open another terminal
 - Navigate to the 'gridium-challenge' folder
 - Run `npm install`
