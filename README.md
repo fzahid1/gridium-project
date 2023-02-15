@@ -7,7 +7,7 @@ Instructions:
 - Open a bash terminal and navigate to the 'gridium-project' folder
 - Install dependencies by running `npm install`
 - Start the server locally on port 5000 by running the command `npm start`
-- you should see 'listening on port 5000'
+- You should see 'listening on port 5000' in the console to confirm the server is running
 - Navigate to http://localhost:5000/ in your browser
 - Hope you like the app!
 
