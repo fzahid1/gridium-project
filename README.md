@@ -1,6 +1,6 @@
 # gridium-project
 
-NOTE: I had to create an Express server proxy to get around the CORS policy of the API endpoints. Please excuse the weird file structure!
+NOTE: I had to create an Express server proxy to get around the CORS policy of the API endpoints. 
 
 Instructions:
 - Clone the repository
